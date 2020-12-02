@@ -3,4 +3,4 @@
 
 **[J. Kleinberg and E. Tardos, Algorithm Design, Pearson Education, 2006](https://github.com/yanllearnn/books/blob/main/Theory/Algorithms/Algorithm%20Design.pdf)**
 
-**[Understanding Machine Learning from Theory to Algorithms](https://github.com/yanllearnn/books/blob/main/Applications/understanding-machine-learning-theory-algorithms.pdf)** 
+**[Understanding Machine Learning from Theory to Algorithms by Shalev-Shwartz and Ben-David ](https://github.com/yanllearnn/books/blob/main/Applications/understanding-machine-learning-theory-algorithms.pdf)** 
